@@ -1,0 +1,15 @@
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.csproj.AssemblyReference.cache
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.AssemblyInfoInputs.cache
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.AssemblyInfo.cs
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.csproj.CoreCompileInputs.cache
+C:\msys64\home\Admin\3.2\bin\Debug\net6.0\_3_2.exe
+C:\msys64\home\Admin\3.2\bin\Debug\net6.0\_3_2.deps.json
+C:\msys64\home\Admin\3.2\bin\Debug\net6.0\_3_2.runtimeconfig.json
+C:\msys64\home\Admin\3.2\bin\Debug\net6.0\_3_2.dll
+C:\msys64\home\Admin\3.2\bin\Debug\net6.0\_3_2.pdb
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.dll
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\refint\_3_2.dll
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.pdb
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\_3_2.genruntimeconfig.cache
+C:\msys64\home\Admin\3.2\obj\Debug\net6.0\ref\_3_2.dll

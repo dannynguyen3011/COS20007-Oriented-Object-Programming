@@ -1,0 +1,52 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using NUnit.Framework;
+using SwinAdventure;
+
+namespace TestProject
+{
+    [TestFixture]
+    public class TestLocation
+    {
+        Location l;
+        Player p;
+
+        [Test]
+        public void TestPlayercanlocateLocation()
+        {
+            p = new Player("Dung", "Handsome Player");
+            l = new Location("Classroom", "A lovely classroom with friends");
+            p.Location = l;
+
+            bool actual = l.AreYou("Location");
+            Assert.IsTrue(actual, "Test Location can define itself");
+        }
+
+        [Test] 
+        public void TestPlayerHasLocation()
+        {
+            p = new Player("Andy", "Funny Player");
+            l = new Location("Classroom", "A lovely classroom with friends");
+            p.Location = l;
+            GameObject expected = l;
+            GameObject actual = p.Locate("room");
+
+            Assert.That(actual, Is.EqualTo(expected), "Test of player can locate their location");
+        }
+        [Test]
+        public void TestLocationidentifyItems()
+        {
+            l = new Location("Classroom", "A lovely classroom with friends");
+            Item i = new Item(new string[] { "sword" }, "steel", "A real-killer made of steel");
+            l.Inventory.Put(i);
+
+            GameObject expected = i;
+            GameObject actual = l.Locate("sword");
+
+            Assert.That(actual, Is.EqualTo(expected), "Test location can identify itself");
+        }
+    }
+}

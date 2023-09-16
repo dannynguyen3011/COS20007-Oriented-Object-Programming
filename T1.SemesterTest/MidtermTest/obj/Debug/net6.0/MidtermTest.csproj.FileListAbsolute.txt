@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\bin\Debug\net6.0\MidtermTest.exe
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\bin\Debug\net6.0\MidtermTest.deps.json
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\bin\Debug\net6.0\MidtermTest.runtimeconfig.json
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\bin\Debug\net6.0\MidtermTest.dll
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\bin\Debug\net6.0\MidtermTest.pdb
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.AssemblyInfo.cs
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.dll
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\refint\MidtermTest.dll
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.pdb
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\MidtermTest.genruntimeconfig.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\T1.SemesterTest\MidtermTest\obj\Debug\net6.0\ref\MidtermTest.dll

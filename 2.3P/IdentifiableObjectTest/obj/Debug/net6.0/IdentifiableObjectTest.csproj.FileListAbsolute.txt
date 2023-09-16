@@ -1,0 +1,5 @@
+C:\Users\Admin\Downloads\COS20007 OOP\Task\2.3P\IdentifiableObjectTest\obj\Debug\net6.0\IdentifiableObjectTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\2.3P\IdentifiableObjectTest\obj\Debug\net6.0\IdentifiableObjectTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\COS20007 OOP\Task\2.3P\IdentifiableObjectTest\obj\Debug\net6.0\IdentifiableObjectTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\COS20007 OOP\Task\2.3P\IdentifiableObjectTest\obj\Debug\net6.0\IdentifiableObjectTest.AssemblyInfo.cs
+C:\Users\Admin\Downloads\COS20007 OOP\Task\2.3P\IdentifiableObjectTest\obj\Debug\net6.0\IdentifiableObjectTest.csproj.CoreCompileInputs.cache
